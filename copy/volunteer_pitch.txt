@@ -1,11 +1,11 @@
 **Project Title**: Ready Tech Pro
 **Short description:** A nonprofit platform for providing professional development programs to anyone with a disability. We need assistance from all levels of ability to help the most people.
 **Skills needed**: Must be able to effectively communicate using technology, work with a group, and have a strong desire to help others. If you know what you want to practice, we can place you appropriately.
-**Paid? If so, what amount?**: Only volunteer positions for now. That will change when we obtain major funding  and we are able to hire staff. Once we are fully operational, we will also provide contract development opportunities to qualifying members of our community.
+**Paid? If so, what amount?**: Only volunteer positions for now. That will change when we obtain major funding and we are able to hire staff. Once we are fully operational, we will also provide contract development opportunities to qualifying members of our community.
 **Website**: https://www.readytechpro.org/
 **Project description (full)**: Ready Tech Pro is a nonprofit charitable organization (pending 501 (c)(3) approval) that will offer online professional support services to people living with a disability. We are developing programs that will provide:
 Access to free technical training resources.
-A sportive community of similar professionals.
+A supportive community of similar professionals.
 A network of collaboration partners for portfolio projects.
 Contract employment and volunteer opportunities.
 In order to get this working and help the most people, we need assistance from all ability levels. We will have unlimited volunteer opportunities for anyone who wants to gain technical experience by helping others.
